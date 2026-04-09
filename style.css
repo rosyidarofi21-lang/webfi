@@ -10,7 +10,7 @@ body{
   margin:auto;
   height:120px;
   line-height:120px;
-  backround:#417aa8;
+  backround:#008b8b;
   color:#333;
 }
 .jarak{
@@ -19,6 +19,7 @@ body{
 .menu{
   background-color:#471aa8;
   height:50px;
+  line-height:120px;
   position:relative;
   width:90%;
   margin:0 auto;

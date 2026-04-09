@@ -10,7 +10,7 @@ body{
   margin:auto;
   height:120px;
   line-height:120px;
-  backround:#008b8b;
+  background:#4417aa8;
   color:#333;
 }
 .jarak{
@@ -19,7 +19,7 @@ body{
 .menu{
   background-color:#471aa8;
   height:50px;
-  line-height:120px;
+  line-height:50px;
   position:relative;
   width:90%;
   margin:0 auto;
@@ -36,7 +36,7 @@ body{
   color:#FFF;
   text-decoration:none;
 }
-.menu ul li a:hover{
+.menu ul li a:hover {
   background-color:#4b88bb;
   display:block;
 }
@@ -66,7 +66,7 @@ body{
     width:30%;
     float:left;
     margin:auto;
-    backround:#fff;
+    background:#fff;
     height:420px;
 }
 .undecor{
@@ -77,7 +77,7 @@ body{
     margin:auto;
     height:40px;
     line-height:40px;
-    backround:#417aa8;
+    background:#417aa8;
     color:#fff;
     margin-bottom: 1pc;
 }
